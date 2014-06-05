@@ -26,8 +26,8 @@ python3 trends.py -m obama
 python3 trends.py -m "my life"
 ```
 
-As described on the CS61A instructional page, this project works like this:
-> 1.Collecting public Twitter posts (tweets) that have been tagged with geographic locations and filtering for those that contain the "texas" query term,
+The CS61A instructional page explains how this program works:
+> 1. Collecting public Twitter posts (tweets) that have been tagged with geographic locations and filtering for those that contain the "texas" query term,
 2. Assigning a sentiment (positive or negative) to each tweet, based on all of the words it contains,
 3. Aggregating tweets by the state with the closest geographic center, and finally
 4. Coloring each state according to the aggregate sentiment of its tweets. Red means positive sentiment; blue means negative.
