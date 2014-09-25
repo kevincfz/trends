@@ -7,7 +7,7 @@ trends
 
 ###### This repository includes a sample tweets data in 2011 as a txt file, located under the /data direcotry. There is also a compressed file with more data.
 
-If you want to use your own data, please place it under /data and modify data.py accordingly.
+###### If you want to use your own data, please place it under /data and modify data.py accordingly.
 
 #### Please use:
 ```bash
