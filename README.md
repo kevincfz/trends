@@ -9,7 +9,7 @@ trends
 
 ###### If you want to use your own data, please place it under /data and modify data.py accordingly.
 
-#### Please use:
+##### Please use:
 ```bash
 python3 trends.py -m <keyword>
 ```
